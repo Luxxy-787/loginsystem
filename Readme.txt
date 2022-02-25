@@ -1,4 +1,4 @@
-##Responsive Login & Registration Form Using HTML & CSS & JS | Sliding Sign In & Sign Up Form with awesome sliding animation just by using HTML and CSS and a little bit of JavaScript. We'll have a nice blue background, also our sign-in & sign-up form will be responsive!
+## Responsive Login & Registration Form Using HTML & CSS & JS | Sliding Sign In & Sign Up Form with awesome sliding animation just by using HTML and CSS and a little bit of JavaScript. We'll have a nice blue background, also our sign-in & sign-up form will be responsive!
 
 
 
